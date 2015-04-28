@@ -6,7 +6,7 @@
 
     L.Icon.Default.imagePath = 'images/';
 
-    var GEOCODER = 'https://geodata.md.gov/imap/rest/services/GeocodeServices/MD_CompositeLocatorWithEsri/GeocodeServer'
+    var GEOCODER = 'https://geodata.md.gov/imap/rest/services/GeocodeServices/MD_CompositeLocatorWithEsri/GeocodeServer';
 
     var map = L.map('map', {
         center: [39.3133, -76.6167],
