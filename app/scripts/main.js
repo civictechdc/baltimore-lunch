@@ -33,9 +33,7 @@
                 .bindPopup('<strong>' +
                     this._name + 
                     '</strong><br />' +
-                    this._address +
-                    '<br />Hours: ' +
-                    this._time);
+                    this._address);
             });
         });
     });
