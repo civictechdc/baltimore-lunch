@@ -30,13 +30,22 @@
     "_address":"30 W North Ave Baltimore, MD 21201",
     "_contact":"443-602-7611",
     "_time":"11 am - 2 pm"
-  }
+  },
   {
-    "_name":"Red Emma's Bookstore Coffeehouse",
-    "_longitude":39.312315,
-    "_latitude":-76.617847,
-    "_address":"30 W North Ave Baltimore, MD 21201",
-    "_contact":"443-602-7611",
-    "_time":"11 am - 2 pm"
-  }
+    "_name":"Pleasant Hope Baptist Church",
+    "_longitude":39.364592,
+    "_latitude":-76.610988,
+    "_address":"430 E Belvedere Ave Baltimore, MD 21212",
+    "_contact":"null",
+    "_time":"null"
+  },
+  {
+    "_name":"Northside Baptist Church",
+    "_longitude":39.367163,
+    "_latitude":-76.597195,
+    "_address":"1100 E Northern Parkway Baltimore, MD 21239",
+    "_contact":"null",
+    "_time":"null"
+  },
+
 ]
