@@ -24,11 +24,15 @@
             $.ajax('data/locations.json')
         ).done(function (data) {
             locations.clearLayers();
-            $.each(data, function (location) {
-                L.marker([location.lat, location.lon], {
-                    popupTemplate: ''
+            $.each(data, function () {
+                L.marker([this._longitude, this._latitude], {
                 }).addTo(locations)
-                .bindPopup();
+                .bindPopup('<strong>' +
+                    this._name + 
+                    '</strong><br />' +
+                    this._address +
+                    '<br />Hours: ' +
+                    this._time);
             });
         });
     });
