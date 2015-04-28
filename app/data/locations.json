@@ -46,5 +46,45 @@
     "_address":"1100 E Northern Parkway Baltimore, MD 21239",
     "_contact":"null",
     "_time":"null"
+  },
+  {
+    "_name":"Bethel AME Church",
+    "_longitude":39.302111,
+    "_latitude":-76.628991,
+    "_address":"1300 Druid Hill Avenue Baltimore, MD 21217",
+    "_contact":"null",
+    "_time":"null"
+  },
+  {
+    "_name":"Pennsylvania AMEZ Church",
+    "_longitude":39.299290,
+    "_latitude":-76.629656,
+    "_address":"1128 Pennsylvania Avenue Baltimore, MD 21217",
+    "_contact":"null",
+    "_time":"null"
+  },
+  {
+    "_name":"Oak Street AME Church",
+    "_longitude":39.316223,
+    "_latitude":-76.619327,
+    "_address":"123 West 24 Street Baltimore, MD 21218",
+    "_contact":"null",
+    "_time":"null"
+  },
+  {
+    "_name":"Payne Memorial AME Church",
+    "_longitude":39.306932,
+    "_latitude":-76.631826,
+    "_address":"1714 Madison Avenue, Baltimore, MD 21217",
+    "_contact":"null",
+    "_time":"null"
+  },
+  {
+    "_name":"Saint John AME Church",
+    "_longitude":39.298647,
+    "_latitude":-76.637673,
+    "_address":"810 North Carrollton Avenue Baltimore, MD 21217",
+    "_contact":"null",
+    "_time":"null"
   }
 ]
