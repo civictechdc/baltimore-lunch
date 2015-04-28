@@ -1,0 +1,26 @@
+[
+  {
+    "_name":"Bentalou Recreation Center",
+    "_longitude":39.292761,
+    "_latitude":-76.654081,
+    "_address":"222 N Bentalou Baltimore, MD 21223",
+    "_contact":"null",
+    "_time":"10 am - 12 pm"
+  },
+  {
+    "_name":"Beta",
+    "_longitude":39.297017,
+    "_latitude":-76.652885,
+    "_address":"655 N Bentalou Baltimore, MD 21216",
+    "_contact":"null",
+    "_time":"10 am - 12 pm"
+  },
+  {
+    "_name":"Gamma",
+    "_longitude":39.297916,
+    "_latitude":-76.637037,
+    "_address":"1121 W Lanvale Baltimore, MD ",
+    "_contact":"null",
+    "_time":"10 am - 12 pm"
+  }
+]
