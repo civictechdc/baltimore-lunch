@@ -51,7 +51,8 @@
                 f: 'json',
                 singleLine: string,
                 maxLocations: 1,
-                outSR: 4326
+                outSR: 4326,
+                searchExtent: '-8544518,4756605,-8510502,4779634'
             },
             success: function (response) {
                 var point = response.candidates[0].location,
