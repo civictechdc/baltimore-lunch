@@ -40,5 +40,26 @@ header {
 }
 header .appName {
 	font-size: 22px;
+	line-height: 22px;
 	float: left;
+	padding-right: 44px;
+}
+
+header form {
+	float: left;
+}
+
+header form input[type="text"] {
+	height: 28px;
+	font-size: 15px;
+	position: relative;
+	top: -5px;
+	width: 320px;
+	padding: 0 5px;
+}
+
+header form input[type="submit"] {
+	font-size: 17px;
+	position: relative;
+	top: -6px;
 }
