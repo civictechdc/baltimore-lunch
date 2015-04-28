@@ -19,8 +19,16 @@
     "_name":"Gamma",
     "_longitude":39.297916,
     "_latitude":-76.637037,
-    "_address":"1121 W Lanvale Baltimore, MD ",
+    "_address":"1121 W Lanvale Baltimore, MD 21217",
     "_contact":"null",
     "_time":"10 am - 12 pm"
+  },
+  {
+    "_name":"Red Emma's Bookstore Coffeehouse",
+    "_longitude":39.312315,
+    "_latitude":-76.617847,
+    "_address":"30 W North Ave Baltimore, MD 21201",
+    "_contact":"443-602-7611",
+    "_time":"11 am - 2 pm"
   }
 ]
