@@ -95,7 +95,6 @@
     "_latitude":-76.637673,
     "_address":"810 North Carrollton Avenue Baltimore, MD 21217",
     "_contact":"null",
-<<<<<<< HEAD
     "_time":"null",
     "_safePlace":"yes"
   },
@@ -106,9 +105,6 @@
     "_address":"6616 Graceland Avenue Baltimore, MD 21224",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
-=======
-    "_time":"null"
->>>>>>> 35deb043cc1710c1e50e320a73ba3180d768faa0
+    "_safePlace":"yes",
   }
 ]
