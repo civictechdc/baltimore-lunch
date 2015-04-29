@@ -51,11 +51,12 @@
                 f: 'json',
                 singleLine: string,
                 maxLocations: 1,
-                outSR: 4326
+                outSR: 4326,
+                searchExtent: '-8544518,4756605,-8510502,4779634'
             },
             success: function (response) {
                 var point = response.candidates[0].location,
-                    coords = [point.y, point.x];
+                    coords = L.latLng(point.y, point.x);
 
                 map.panTo(coords);
                 map.setZoom(15);
@@ -64,6 +65,19 @@
                 L.circleMarker(coords, {
                     color: '#f03'
                 }).addTo(youAreHere);
+
+                var closestPoint;
+
+                $.each(locations.getLayers(), function () {
+                    this.options.distance = coords.distanceTo(this._latlng);
+
+                    if (!closestPoint ||
+                        this.options.distance < closestPoint.options.distance) {
+                        closestPoint = this;
+                    }
+                });
+
+                closestPoint.openPopup();
             }
         });
     };
