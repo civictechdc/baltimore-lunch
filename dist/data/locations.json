@@ -6,7 +6,7 @@
     "_address":"222 N Bentalou Baltimore, MD 21223",
     "_contact":"null",
     "_time":"10 am - 12 pm",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Beta",
@@ -15,7 +15,7 @@
     "_address":"655 N Bentalou Baltimore, MD 21216",
     "_contact":"null",
     "_time":"10 am - 12 pm",
-    "_safePlace":"null"
+    "_safeplace":"null"
   },
   {
     "_name":"Gamma",
@@ -24,7 +24,7 @@
     "_address":"1121 W Lanvale Baltimore, MD 21217",
     "_contact":"null",
     "_time":"10 am - 12 pm",
-    "_safePlace":"null"
+    "_safeplace":"null"
   },
   {
     "_name":"Red Emma's Bookstore Coffeehouse",
@@ -33,7 +33,7 @@
     "_address":"30 W North Ave Baltimore, MD 21201",
     "_contact":"443-602-7611",
     "_time":"11 am - 2 pm",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Pleasant Hope Baptist Church",
@@ -42,7 +42,7 @@
     "_address":"430 E Belvedere Ave Baltimore, MD 21212",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Northside Baptist Church",
@@ -51,7 +51,7 @@
     "_address":"1100 E Northern Parkway Baltimore, MD 21239",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Bethel AME Church",
@@ -60,7 +60,7 @@
     "_address":"1300 Druid Hill Avenue Baltimore, MD 21217",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Pennsylvania AMEZ Church",
@@ -69,7 +69,7 @@
     "_address":"1128 Pennsylvania Avenue Baltimore, MD 21217",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Oak Street AME Church",
@@ -78,7 +78,7 @@
     "_address":"123 West 24 Street Baltimore, MD 21218",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Payne Memorial AME Church",
@@ -87,7 +87,7 @@
     "_address":"1714 Madison Avenue, Baltimore, MD 21217",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Saint John AME Church",
@@ -96,7 +96,7 @@
     "_address":"810 North Carrollton Avenue Baltimore, MD 21217",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes"
+    "_safeplace":"yes"
   },
   {
     "_name":"Bethlehem AME Church",
@@ -105,6 +105,6 @@
     "_address":"6616 Graceland Avenue Baltimore, MD 21224",
     "_contact":"null",
     "_time":"null",
-    "_safePlace":"yes",
+    "_safeplace":"yes",
   }
 ]
